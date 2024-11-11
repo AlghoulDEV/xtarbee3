@@ -5,7 +5,7 @@ You are Ready To GO!
 ______________________________________________________________________________
 #Installation 
 
- Visual C++ Redistributable Version* (https://aka.ms/vs/17/release/vc_redist.x64.exe)
+ Visual C++ Redistributable Version* (https://aka.ms/vs/17/release/vc_redist.x64.exe)                                                                        
  Python 3.11.0v * (https://www.python.org/downloads/release/python-3110/)
 
  ⚠️:this app may had errors
