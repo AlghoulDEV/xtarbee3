@@ -1,0 +1,6 @@
+pip install kivy
+pip install arabic-reshaper
+pip install python-bidi
+pip install sympy
+pip install numpy
+pip install matplotlib
