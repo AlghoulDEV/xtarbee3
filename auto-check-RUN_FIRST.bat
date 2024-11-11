@@ -8,7 +8,7 @@ REM If pip is not found, error level will be 1
 if %errorlevel% neq 0 (
     echo Pip is not installed on this system.
     echo Opening Python 3.11 download page...
-    start "" "https://www.python.org/downloads/release/python-3110/"
+    start "" "https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe"
     start "" "https://aka.ms/vs/17/release/vc_redist.x64.exe"
     pause
     exit /b
